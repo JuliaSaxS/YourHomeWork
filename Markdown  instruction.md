@@ -91,6 +91,20 @@ It looks like this:
 >> Second level
 >>> Third level
 
+## Working with remote repositories.
+
+git clone - clones the remote repository to your computer.
+
+git push - send to a remote repository.
+
+git pull - get changes from a remote repository.
+
+git remote - view the list of configured remote repositories.
+
+fork - an exact copy of the repository in your account. Forks are needed to make your changes to a project that you don't have direct access to.
+
+pull-request – a request to make changes from the owner of the repository from which we made the fork.
+
 ## Conclusion.
 
 We have learned the basic skills of working with version control.
